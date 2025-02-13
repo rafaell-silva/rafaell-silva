@@ -16,7 +16,7 @@ My name is Rafael Barreto, i'm an Computer Science undergraduate and currently l
 
 ### 🌐 Contact Me  
 <p>
-    <a href="" target="_blank">
+    <a href="https://www.linkedin.com/in/rafael-barreto-9016a9350/" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/rafaellbrs/" target="_blank">
