@@ -1,6 +1,6 @@
 ### 👋 Welcome!
 
-<img align="left" height="100" width="100" src="https://github.com/rafaell-silva/rafaell-silva/blob/main/gifs/Bonfire.gif">
+<img align="left" height="72" width="72" src="https://github.com/rafaell-silva/rafaell-silva/blob/main/gifs/Bonfire.gif">
 
 My name is Rafael Barreto, i'm an Computer Science undergraduate and currently learning to program in different paradigms. I have interests in Big Data, Machine Learning, Backend and Frontend. Looking to learn web development, C++ and C# in the future!
 
