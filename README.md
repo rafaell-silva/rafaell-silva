@@ -6,8 +6,9 @@ My name is Rafael Barreto, i'm an Computer Science undergraduate and currently l
 
 ##
 
-### 💻 My Experiences 
 <div align="center">  
+
+### 💻 My Experiences 
 <p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,java,mysql,clojure,git,linux" alt="Skills" />
@@ -17,8 +18,9 @@ My name is Rafael Barreto, i'm an Computer Science undergraduate and currently l
 
 ##
 
-### 🌐 Contact Me  
 <div align="center">  
+
+### 🌐 Contact Me  
 <p>
     <a href="https://www.linkedin.com/in/rafael-barreto-9016a9350/" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
