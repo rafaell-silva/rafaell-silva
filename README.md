@@ -4,6 +4,7 @@
 
 My name is Rafael Barreto, i'm an Computer Science undergraduate and currently learning to program in different paradigms. I have interests in Big Data, Machine Learning, Backend and Frontend. Looking to learn web development, C++ and C# in the future!
 
+##
 
 <div align="center"> 
 
@@ -13,6 +14,8 @@ My name is Rafael Barreto, i'm an Computer Science undergraduate and currently l
         <img src="https://skillicons.dev/icons?i=python,java,mysql,clojure,git,linux" alt="Skills" />
     </a>
 </p>
+
+##
 
 ### 🌐 Contact Me  
 <p>
