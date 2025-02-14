@@ -18,10 +18,11 @@ My name is Rafael Barreto, i'm an Computer Science undergraduate and currently l
 
 ##
 
-<div align="center">  
+<hr>
+<p align="center">  
 
 ### 🌐 Contact Me  
-<p>
+
     <a href="https://www.linkedin.com/in/rafael-bd-silva/" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"></img>
     </a>
@@ -48,6 +49,6 @@ My name is Rafael Barreto, i'm an Computer Science undergraduate and currently l
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
         alt="Gmail"></img>
     </a>
+    
 </p>
-</div>
-
+</hr>
