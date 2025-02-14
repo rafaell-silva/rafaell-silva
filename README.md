@@ -34,9 +34,9 @@ My name is Rafael Barreto, i'm an Computer Science undergraduate and currently l
     <a href="https://discordlookup.com/user/300659970582511622" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord">
     </a>
-    <a href="https://steamcommunity.com/profiles/76561198228189260/" target="_blank">
+<!--<a href="https://steamcommunity.com/profiles/76561198228189260/" target="_blank">
         <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam">
-    </a>
+    </a>--> 
     <a href="mailto:rafael.barreto.silva@ccc.ufcg.edu.br" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
     </a>
