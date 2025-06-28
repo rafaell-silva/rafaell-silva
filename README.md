@@ -29,21 +29,10 @@ My name is Rafael Barreto, i'm an Computer Science undergraduate and currently l
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         alt="Whatsapp"></img>
     </a>
-    <a href="https://www.instagram.com/rafaellbrs/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></img>
-    </a>
-    <a href="https://www.facebook.com/rafael.barreto.3139241" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" 
-        alt="Facebook"></img>
-    </a>
     <a href="https://discordlookup.com/user/300659970582511622" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" 
         alt="Discord"></img>
     </a>
-<!--<a href="https://steamcommunity.com/profiles/76561198228189260/" target="_blank">
-        <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" 
-        alt="Steam"></img>
-    </a>--> 
     <a href="mailto:rafael.barreto.silva@ccc.ufcg.edu.br" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
         alt="Gmail"></img>
