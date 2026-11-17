@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=header&text=Rafael%20Barreto&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20UFCG&descSize=16&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,100:F2540B&height=150&section=header&text=Rafael%20Barreto&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20UFCG&descSize=16&descAlignY=58"/>
 
 <img align="left" height="72" width="72" src="https://github.com/rafaell-silva/rafaell-silva/blob/main/gifs/Bonfire.gif">
 
