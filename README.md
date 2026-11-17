@@ -44,5 +44,3 @@ Always curious about AI, Big Data and different programming paradigms. Currently
 <a href="https://discordlookup.com/user/300659970582511622"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&reversal=true"/>
